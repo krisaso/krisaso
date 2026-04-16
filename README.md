@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**krisaso/krisaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Привет, меня зовут Кристина 👋
 
-Here are some ideas to get you started:
+Я начинающий аналитик данных. Мой путь в аналитику начался с работы в научной лаборатории, где я полюбила искать закономерности в данных и оптимизировать процессы.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Инструменты и технологии
+*   **Анализ данных:** Python (Pandas, NumPy, Statsmodels), SQL, Excel (продвинутый уровень).
+*   **Визуализация:** DataLens, Matplotlib, Seaborn.
+*   **Статистика:** A/B-тестирование, когортный анализ.
+*   **Другое:** Git, Jupyter Notebook.
+
+### 📁 Мои проекты
+*   **Тестовые:**
+    *   *Стек:* Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, Excel (продвинутый уровень).
+    *   *Ссылка на репозиторий:* `[(https://github.com/krisaso/test_tasks)]`
+*   **Учёт реактивов в лаборатории:** оптимизация процесса инвентаризации.
+    *   *Результат:* Разработала форму в Excel, которая сократила время проверки запасов на 30%.
+    *   *Стек:* Excel (умные таблицы, условное форматирование, вложенные формулы, проверка данных).
+
+### 📫 Как со мной связаться
+*   **Telegram:** `@krista_sig`
+*   **Email:** `krisaso@mail.ru`
+*   **HH.ru:** `[(https://ufa.hh.ru/resume/393967aaff106276300039ed1f646f32467769)]`
+
+---
+
+⭐ **Пара слов обо мне:** Я постоянно учусь (закончила курс "Аналитик данных" у Анатолия Карпова) и ищу возможности применить свои навыки на практике. Люблю порядок в данных и в жизни.
