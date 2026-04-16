@@ -7,7 +7,7 @@
 *   **Анализ данных:** Python (Pandas, NumPy, Statsmodels), SQL, Excel (продвинутый уровень).
 *   **Визуализация:** DataLens, Matplotlib, Seaborn.
 *   **Статистика:** A/B-тестирование, когортный анализ.
-*   **Другое:** Git, Jupyter Notebook.
+*   **Другое:** Git, Jupyter Notebook, [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
 ### 📁 Мои проекты
 *   **Тестовые:**
