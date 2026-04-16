@@ -4,8 +4,8 @@
 Я начинающий аналитик данных. Мой путь в аналитику начался с работы в научной лаборатории, где я полюбила искать закономерности в данных и оптимизировать процессы.
 
 ### 🛠️ Инструменты и технологии
-*   **Анализ данных:** Python (Pandas, NumPy, Statsmodels), SQL, Excel (продвинутый уровень).
-*   **Визуализация:** DataLens, Matplotlib, Seaborn.
+*   **Анализ данных:** Python ([![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#), [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#), [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)), SQL, Excel (продвинутый уровень).
+*   **Визуализация:** DataLens, [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#), Seaborn.
 *   **Статистика:** A/B-тестирование, когортный анализ.
 *   **Другое:** Git, Jupyter Notebook, [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
